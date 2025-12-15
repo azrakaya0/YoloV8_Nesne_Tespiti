@@ -1,0 +1,13 @@
+# Cat & Apple Detection - YOLOv8
+
+## Kurulum
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+
+## Çalıştırma
+python gui_app.py
+
+## Açıklama
+Bu proje YOLOv8 kullanılarak kedi ve elma nesnelerini
+gerçek zamanlı olarak tespit eder.
